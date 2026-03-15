@@ -71,6 +71,19 @@
         "logo": "/assets/images/hallx.png"
     },
     {
+        "title": "Quickwash",
+        "description": "Laundry Pickup & Delivery Management System for Washerman & Ironers",
+        "link": "https://github.com/dhanushk-offl/quickwash/",
+        "tags": [
+            "React",
+            "Expressjs",
+            "Prisma OEM",
+            "Fullstack"
+        ],
+        "year": "2025",
+        "logo": "/assets/images/resume-analyzer.png"
+    }
+    {
         "title": "Resume Analyser",
         "description": "Evaluate resume fitness for job descriptions.",
         "link": "https://github.com/dhanushk-offl/resume-analyzer",
