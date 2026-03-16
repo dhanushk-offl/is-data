@@ -1,6 +1,11 @@
 [
     {
         "category": "Dhanu in AI",
+        "thought": "Don't use RAG deeply unless you need to do with custom data. Focus on good prompt engineering, LLM will take cares of rest.",
+        "date": "2026-03-16"
+    },
+    {
+        "category": "Dhanu in AI",
         "thought": "Thinking about how autonomous agents can revolutionize personal productivity and creative workflows.",
         "date": "2025-12-09"
     },
