@@ -71,6 +71,20 @@
         "logo": "/assets/images/hallx.png"
     },
     {
+        "title": "Resume Parser Agent",
+        "description": "An agent skill, CLI tool, npm library, and MCP server that deeply parses resumes using the OpenResume 4-step algorithm.",
+        "link": "https://github.com/dhanushk-offl/resume-parser",
+        "tags": [
+            "AI Agent",
+            "Typescript",
+            "Resume Parser",
+            "MCP", 
+            "ATS CLI"
+        ],
+        "year": "2026",
+        "logo": "/assets/images/resume-parser.png"
+    },
+    {
         "title": "Quickwash",
         "description": "Laundry Pickup & Delivery Management System for Washerman & Ironers",
         "link": "https://github.com/dhanushk-offl/quickwash/",
