@@ -13,5 +13,10 @@
         "category": "Dhanu in Dev",
         "thought": "The shift towards component-driven architectures and static generation is making the modern web significantly more performant and maintainable.",
         "date": "2025-09-08"
+    },
+    {
+        "category": "Dhanu in Engineering",
+        "thought": "The best optimization I've shipped wasn't a faster algorithm.It was deleting work that didn't need to happen.",
+        "date": "2026-06-14"
     }
 ]
